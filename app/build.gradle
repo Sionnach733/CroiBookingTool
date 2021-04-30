@@ -57,6 +57,7 @@ dependencies {
     // Firebase UI
     // Used in FirebaseUIActivity.
     implementation 'com.firebaseui:firebase-ui-auth:7.1.1'
+    implementation 'com.google.firebase:firebase-database:19.7.0'
 
 
     testImplementation 'junit:junit:4.+'
